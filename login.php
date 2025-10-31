@@ -38,6 +38,10 @@
             <button class="btn btn-primary" type="submit">Sign in</button>
           </div>
         </form>
+        <p class="text-center mt-3">
+        ยังไม่มีบัญชี? <a href="register.php">สมัครสมาชิกที่นี่</a>
+        </p>
+
 
         <p class="text-center text-muted mt-3 mb-0 small">Demo only — do not use weak passwords.</p>
       </div>
@@ -46,3 +50,4 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
